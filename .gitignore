@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+*.csv
+
+# Outputs (optional — keep if you want charts visible)
+# outputs/eda_charts/
+
+# IDE
+.vscode/
+.idea/
